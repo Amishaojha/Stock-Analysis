@@ -2,7 +2,7 @@
 
 
 
-<h1> 📊 ICT | Honeywell Training Project – Stock Analysis Dashboard (Power BI)<br></h1>
+<h1>Stock Analysis Dashboard (Power BI)<br></h1>
 Overview
 This Stock Analysis Dashboard is part of my ICT | Honeywell training project, where I utilized Power BI to analyze stock performance, visualize financial trends, and track key market insights. The dashboard enables data-driven decision-making by providing a comprehensive view of stock prices, holdings, and gains.
 
